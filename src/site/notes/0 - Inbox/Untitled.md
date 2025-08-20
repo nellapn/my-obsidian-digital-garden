@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/untitled/","tags":["project","area","resource","archive","people","company","idea","meeting","salesPipeline","businessDevelopment","distribution","fundRaising","investor","policy","regulation","ai","conference","presentation","product","tld"]}
+{"dg-publish":true,"permalink":"/0-inbox/untitled/","tags":["project","area","resource","archive","people","company","idea","meeting","salesPipeline","businessDevelopment","distribution","fundRaising","investor","policy","regulation","ai","conference","presentation","product","tld","gardenEntry"]}
 ---
 
 # <'% tp.file.title%>
